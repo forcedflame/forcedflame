@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @forcedflame
 - 👀 I’m interested in ... Game Dev and Web Dev.
+- 💻 Languages Acquired: Java, HTML
 - 🌱 I’m currently learning CSS, JavaScript and maybe Rust and C# in the future
 - 💞️ I’m looking to collaborate on creating games or other cool things.
 - 📫 How to reach me ... _forcer on discord.
-- 😄 Pronouns: table/chair (he/him).
 - ⚡ Fun fact: ... There is someone behind you 💀
 
 <!---
