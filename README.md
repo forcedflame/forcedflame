@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @forcedflame
 - 👀 I’m interested in ... Game Dev and Web Dev.
-- 💻 Languages Acquired: Java, HTML
-- 🌱 I’m currently learning CSS, JavaScript and maybe Rust and C# in the future
+- 💻 Languages Acquired: Java, HTML, CSS, HTML
+- 🌱 I’m currently learning JS/React!
 - 💞️ I’m looking to collaborate on creating games or other cool things.
-- 📫 How to reach me ... _forcer on discord.
+- 📫 How to reach me ... Email: mufkapadia414@gmail.com.
 - ⚡ Fun fact: ... There is someone behind you 💀
 
 <!---
